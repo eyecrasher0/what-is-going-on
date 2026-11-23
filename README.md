@@ -12,9 +12,9 @@ WIGO displays nearby players' open menus as panels beside them in the world. You
 
 ## Requirements
 
-- A build matching your Minecraft version and loader: Fabric, Forge or NeoForge.
-- Fabric builds require Fabric API and Fabric Loader 0.19.5 or newer.
-- Java 17 for Minecraft 1.16.5–1.20.4, Java 21 for 1.20.5–1.21.11, or Java 25 for 26.x. Forge 1.16.5 also supports Java 8.
+- Select the build for your exact Minecraft version and loader (Fabric, Forge or NeoForge) from [Releases](https://github.com/eyecrasher0/what-is-going-on/releases).
+- Fabric builds also need Fabric API and a compatible Fabric Loader.
+- Use the Java runtime required by your Minecraft version. For Minecraft releases through 1.20.4, WIGO needs Java 17. The Forge build for Minecraft 1.16.5 also supports Java 8.
 
 Controls added by other mods are not shared. Some custom screens added by other mods are unsupported.
 
@@ -39,6 +39,6 @@ The JAR is saved in `fabric/26.3/build/libs/`.
 
 ## License
 
-[GPL-3.0-only](https://github.com/EyeCrasher07/what-is-going-on/blob/main/LICENSE).
+[GPL-3.0-only](https://github.com/eyecrasher0/what-is-going-on/blob/main/LICENSE).
 
-[Source code](https://github.com/EyeCrasher07/what-is-going-on) · [Issues](https://github.com/EyeCrasher07/what-is-going-on/issues) · [Modrinth](https://modrinth.com/project/what-is-going-on) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/what-is-going-on-wigo) · [Contact](https://guns.lol/eyecrasher)
+[Source code](https://github.com/eyecrasher0/what-is-going-on) · [Issues](https://github.com/eyecrasher0/what-is-going-on/issues) · [Modrinth](https://modrinth.com/project/what-is-going-on) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/what-is-going-on-wigo) · [Contact](https://guns.lol/eyecrasher)
